@@ -2,7 +2,7 @@
 (numpy, sklearn, nltk, plotly)
 - Project 1: Classification Analysis on Textual Data
 - Project 2: Clustering Analysis
-- Project 3:
+- Project 3: Collaborative Filtering
 - Project 4:
 - Project 5:
 - Project 6:

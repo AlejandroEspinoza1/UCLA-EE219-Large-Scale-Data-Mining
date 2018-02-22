@@ -5,7 +5,7 @@ Files:
 - NMF.txt: clustering scores of NMF vectors for r ∈ [1, 2, 3, 5, 10, 20, 50, 100, 300];
 - SVD160.txt: clustering scores of SVD vectors for r ∈ (0, 160);
 - NMF50.txt: clustering scores of NMF vectors for r ∈ (0, 50);
-- README.txt: this file.
+- README.md: this file.
 
 Install Requirements:
 ```

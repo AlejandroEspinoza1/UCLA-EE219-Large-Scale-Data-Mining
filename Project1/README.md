@@ -2,7 +2,7 @@ Files:
 - Project1.ipynb: all codes for all the problems;
 - Project1_Report.pdf: full report for project 1;
 - Project1_Interactive.html: short report for interactive functions. Details refer to the section 5.4 in the full report;
-- README.txt: this file.
+- README.md: this file.
 
 Install Requirements:
 ```
