@@ -1,4 +1,7 @@
+# Project 2: Clustering Analysis
+
 Files:
+
 - Project2.ipynb: all codes for all the problems;
 - Project2_Report.pdf: full report for project 2;
 - Project2_Interactive.html: short report for interactive functions. Details refer to the section 6 in the full report;
@@ -21,3 +24,4 @@ Open Project2.ipynb and click Cell -> Run All
 ```
 
 ** Please use Python 2.7 **
+
